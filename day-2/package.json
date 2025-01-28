@@ -1,0 +1,22 @@
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/community": "^0.3.26",
+    "@langchain/core": "^0.3.33",
+    "@langchain/openai": "^0.3.17",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "langchain": "^0.3.12",
+    "pdf-parse": "^1.1.1",
+    "readline-promise": "^1.0.5"
+  },
+  "type": "module"
+}
