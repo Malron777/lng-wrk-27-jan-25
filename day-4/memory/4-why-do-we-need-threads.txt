@@ -1,0 +1,14 @@
+you have an URL like this:
+
+my-app.com/ai/chart
+
+and you get the following requests:
+
+USER-1: hi! My name is Daniel and I like LangGraph!
+USER-2: Sorry, did I already introduce myself?
+USER-1: Sorry, did I already introduce myself?
+
+
+
+threads = different conversations 
+channels = topics withing a conversation
