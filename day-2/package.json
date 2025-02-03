@@ -9,8 +9,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@langchain/community": "^0.3.26",
-    "@langchain/core": "^0.3.33",
+    "@langchain/community": "^0.3.28",
+    "@langchain/core": "^0.3.37",
+    "@langchain/google-genai": "^0.1.8",
     "@langchain/openai": "^0.3.17",
     "cheerio": "^1.0.0",
     "dotenv": "^16.4.7",
